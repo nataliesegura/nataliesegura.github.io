@@ -11,5 +11,5 @@ Part two of lab three was a favorite of mine because I think it was my first tim
 Lab 4, Part 2
 I really enjoyed part two of lab 4 because it felt like a fun experience coding a game that the user could actually play with. I had a lot of fun and it helped me thoroughly understand taking input from the user. Also it was good to start learning how to compare data to each other. 
 
-Lab 9, Part 1
+Lab 9, Part 1 
 Part two of lab 9 was also a favorite of mine because I started to learn using math in my code. I learned to find the average of a set of numbers and return the correct value. This stunned me during the coding process but I felt like I learned a lot from doing it.
